@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.2">
+<eagle version="6.4">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -4257,7 +4257,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <pinref part="J4" gate="G$1" pin="5"/>
 </segment>
 </net>
-<net name="GND" class="0">
+<net name="UPS" class="0">
 <segment>
 <pinref part="IC1" gate="A" pin="B"/>
 <pinref part="GND2" gate="1" pin="GND"/>
